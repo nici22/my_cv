@@ -1,0 +1,18 @@
+/*Tag elements*/
+body {
+    background-color: #b5ffbb;
+}
+hr {
+    background-color: #b5ffbb;
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 4px;
+}
+/*Class elements*/
+.pp {
+    background-color: aqua;
+    border-radius: 100%;
+}
+img:hover{
+    border-radius: 10%;
+}
